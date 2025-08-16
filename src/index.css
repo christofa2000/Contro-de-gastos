@@ -12,6 +12,6 @@
   @apply bg-pink-600;
 }
 .swipeable-list .swipe-action {
-  @apply flex justify-center items-center
+  @apply flex justify-center items-center;
 }
 
