@@ -15,7 +15,7 @@ Permite registrar gastos, filtrarlos por categoría y ver el presupuesto restant
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Tecnologíasgit status
 - ⚛️ React 18
 - 📘 TypeScript
 - 🎨 Tailwind CSS v4
@@ -25,7 +25,7 @@ Permite registrar gastos, filtrarlos por categoría y ver el presupuesto restant
 
 ## 📸 Captura de pantalla
 
-![Pantalla principal](/screenshots/home.png)
+![Pantalla principal](./public/screenshots/home.png)
 
 ---
 
